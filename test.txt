@@ -1,4 +1,3 @@
-خط اول: سلام گیت‌هاب!
-خط دوم: این یک تست برای push است.
-خط سوم: با عشق از سارا 💚
-test
+This is a test file.
+It was created to test pushing to GitHub.
+Everything is working fine!
