@@ -1,3 +1,0 @@
-This is a test file.
-It was created to test pushing to GitHub.
-Everything is working fine!
