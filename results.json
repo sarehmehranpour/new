@@ -1,0 +1,20 @@
+{
+  "successful": [
+    {
+      "phone": "+989123456789",
+      "status": "successful",
+      "message": "پیام با موفقیت ارسال شد",
+      "timestamp": "2024-01-01T12:00:00"
+    }
+  ],
+  "not_registered": [
+    {
+      "phone": "+989876543210",
+      "status": "not_registered",
+      "message": "شماره در واتساپ ثبت‌نام نکرده است",
+      "timestamp": "2024-01-01T12:00:00"
+    }
+  ],
+  "failed": [],
+  "timestamp": "2024-01-01T12:00:00"
+}
